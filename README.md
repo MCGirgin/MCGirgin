@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahir Çınar. I'm Turkish. 
+I'm Mahir Çınar from Turkey. 
 
 ---
 I'm making websites and Python projects. Also I know C# a little bit. Currently I'm studying on machine learning. It's amazing.

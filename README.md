@@ -1,23 +1,20 @@
-### Hi there 👋
 
-I'm Mahir Çınar from Turkey. 
+<h2 align="center">Hi there 👋</h2>
 
----
-I'm making websites and Python projects. Also I know C# a little bit. Currently I'm studying on machine learning. It's amazing.
+<p align="center">I'm Mahir Çınar from Turkey.</p>
 
-<!--
-**MCGirgin/MCGirgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm making websites and Python projects. Also I know C# a<br> little bit. Currently I'm studying on machine learning. It's amazing.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![MCGirgin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcgirgin)](https://github.com/girgin/github-readme-stats)
+<br>
+<h1 align="center">STATS</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcgirgin&show_icons=true&theme=radical"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcgirgin&layout=compact&theme=radical"/><br>
+  <!--  <img src=""/> -->
+  <!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcgirgin&repo=visual_keyboard&theme=radical"/><br> -->
+</p>
+<br>
+<h2 align="center">Visitor Counter</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mcgirgin/count.svg"/>
+</p>

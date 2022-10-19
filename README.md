@@ -4,9 +4,9 @@
 <p align="center">I'm Mahir Çınar from Turkey.</p>
 
 <p align="center">I'm making websites and Python projects. Also I know C# a little bit. Currently I'm studying on machine learning. It's amazing.</p>
+<h1></h1>
+<br>
 <p align="center">
-  <br>
-  <br>
   <a href="https://github.com/MCGirgin">
     <img src="https://img.shields.io/github/followers/mcgirgin?style=social" />
     <img src="https://img.shields.io/github/stars/mcgirgin?style=social"/>

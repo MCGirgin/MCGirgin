@@ -22,7 +22,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcgirgin&layout=compact&theme=radical"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mcgirgin&theme=radical&date_format=M%20j%5B%2C%20Y%5D)" />
   <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=mcgirgin&theme=xcode" />
-  <img width="49%" src="https://wakatime.com/share/@56d29010-3876-4227-b4e0-d5eb24f1c965/9f95af23-4369-4392-942c-aa83cf0acacf.svg"/>
   <!--  <img src=""/> -->
   <!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcgirgin&repo=visual_keyboard&theme=radical"/><br> -->
 </p>

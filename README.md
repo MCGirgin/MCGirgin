@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/mcgirgin/count.svg"/>
 </p>
-<h3></h3>
+<h2></h2>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" />
 </p>

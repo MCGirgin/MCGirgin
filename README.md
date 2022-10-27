@@ -4,8 +4,24 @@
 <p align="center">I'm Mahir Çınar from Turkey.</p>
 
 <p align="center">I'm making websites and Python projects. Also I know C# a little bit. Currently I'm studying on machine learning. It's amazing.</p>
+<br>
 <p align="center">
-  <img href="images/reddit.png" />
+  <a href="https://www.reddit.com/user/MCGirgin">
+    <img width="25px" height="25px" src="images/reddit.png"/>
+  </a>
+  <a href="https://discord.gg/dKEvXWudye">
+    <img width="30px" height="25px" src="images/discord.png"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=GTvVlcSBpRkBPdDdCvkhnbVbFJpKxDbbVGhFGlqFbtcbvTsbtZJdxbnDZXMVmCDftkRKhlrQxDtsq">
+    <img width="25px" height="25px" src="images/gmail.png" />
+  </a>
+  <br>
+  <a href="https://stackoverflow.com/users/19830483/mcgirgin">
+    <img width="25px" height="25px" src="images/stackoverflow.png"/>
+  </a>
+  <a href="https://www.technopat.net/sosyal/uye/mahir-cinar-girgin.477251/">
+    <img width="25px" height="25px" src="images/technopat.png" />
+  </a>
 </p>
 <h1></h1>
 <br>

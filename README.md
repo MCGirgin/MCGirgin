@@ -4,6 +4,9 @@
 <p align="center">I'm Mahir Çınar from Turkey.</p>
 
 <p align="center">I'm making websites and Python projects. Also I know C# a little bit. Currently I'm studying on machine learning. It's amazing.</p>
+<p align="center">
+  <img href="images/reddit.png" />
+</p>
 <h1></h1>
 <br>
 <p align="center">
